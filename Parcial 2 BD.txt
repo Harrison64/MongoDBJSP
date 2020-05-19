@@ -1,0 +1,11 @@
+Video de la Explicacion
+https://youtu.be/-i97StLgaiY
+
+Link de Bibliografia
+https://jojozhuang.github.io/popular/java-app/building-website-with-jsp-and-mongodb/
+
+Actualizar y modificar funciona, pero no pude probarlos solo por el listar,
+un compañero tomo la misma bibliografia, y si le permitio ver los registros, 
+modificarlos y/o actualizarlos, no pude determinar el conflicto, estuve 
+revisando toda la tarde, pero no se si fue un complemento o un jar que quedo mal 
+instalado. 
